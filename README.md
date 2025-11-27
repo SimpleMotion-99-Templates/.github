@@ -4,11 +4,15 @@ Root workspace for all SimpleMotion repositories.
 
 ## Structure
 
-This workspace contains repositories from three GitHub organizations:
+This workspace contains repositories from the following GitHub organizations:
 
 - **simplemotion** - Main organization for products and infrastructure
-- **SimpleMotion-Templates** - Template repositories for project scaffolding
-- **SM-99-Portfolio** - Portfolio repositories
+- **SimpleMotion-20-Portfolio** - Portfolio organization
+- **SimpleMotion-21-Process** - Process repositories
+- **SimpleMotion-22-Products** - Product repositories
+- **SimpleMotion-23-Projects** - Project repositories
+- **SimpleMotion-90-Executive** - Executive resources
+- **SimpleMotion-99-Templates** - Template repositories for project scaffolding
 
 See `.claude/CLAUDE.md` for the complete repository map.
 
