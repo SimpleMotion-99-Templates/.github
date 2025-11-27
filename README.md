@@ -7,7 +7,7 @@ Root workspace for all SimpleMotion repositories.
 This workspace contains repositories from the following GitHub organizations:
 
 - **simplemotion** - Main organization for products and infrastructure
-- **SimpleMotion-20-Portfolio** - Portfolio organization
+- **SimpleMotion-20-IP-Portfolio** - IP Portfolio organization
 - **SimpleMotion-21-Process** - Process repositories
 - **SimpleMotion-22-Products** - Product repositories
 - **SimpleMotion-23-Projects** - Project repositories
