@@ -1,7 +1,17 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/sm-assets/sm-white-banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile/sm-assets/sm-black-banner.svg">
-    <img alt="SimpleMotion" src="profile/sm-assets/sm-black-banner.svg" width="800">
-  </picture>
-</p>
+# SimpleMotion
+
+Root workspace for all SimpleMotion repositories.
+
+## Structure
+
+This workspace contains repositories from three GitHub organizations:
+
+- **simplemotion** - Main organization for products and infrastructure
+- **SimpleMotion-Templates** - Template repositories for project scaffolding
+- **SM-99-Portfolio** - Portfolio repositories
+
+See `.claude/CLAUDE.md` for the complete repository map.
+
+## License
+
+MIT License - Copyright (c) 2025 SimpleMotion.Global Pty Ltd
